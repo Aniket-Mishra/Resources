@@ -16,10 +16,10 @@ Lost my bookmarks. Never again will I lose them again.
 
 ## Really Cool websites! 
 
-1. https://informationisbeautiful.net/
-2. https://www.deploymachinelearning.com/
-3. http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ 
-4. https://www.elementsofai.com/
+1. [Information is beautiful](https://informationisbeautiful.net/)
+2. [Deploy ML](https://www.deploymachinelearning.com/)
+3. [Visual intro to ml](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+4. [Elements of AI](https://www.elementsofai.com/)
 5.
 6.
 7.
