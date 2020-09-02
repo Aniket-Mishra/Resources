@@ -13,6 +13,7 @@ Lost my bookmarks. Never again will I lose them.
 7. [Calculus 2 - Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
 8. [Japanese from 0: You kinda need the book (else you gotta google a lot of stuff) ](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB)
 9. [MIT 6.S191: Intro to deep learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+10. [Mathematics for ML: Linear Algebra. There's calculus and PCA too, pretty cool](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 
 ## Really Cool websites! 
 
@@ -20,7 +21,17 @@ Lost my bookmarks. Never again will I lose them.
 2. [Deploy ML](https://www.deploymachinelearning.com/)
 3. [Visual intro to ml](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 4. [Elements of AI](https://www.elementsofai.com/)
-5.
-6.
-7.
-8. 
+5. []()
+6. []()
+7. []()
+8. []()
+
+## Books
+
+1.  Bishop - Pattern Recognition and Machine Learning
+2. Sutton, Barto - Reinforcement Learning: An Introduction
+3. Berkeley - CS285: Deep Reinforcement Learning
+
+## Some more stuff
+
+1. [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
