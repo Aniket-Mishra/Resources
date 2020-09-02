@@ -1,6 +1,6 @@
-# Resources
-A list of links for things I am interested in.
-Lost my bookmarks. Never again will I lose them again.
+# Resources: 
+A list of links for things I am interested in. Usually about Mathematics, statistics, science and the philosophical part of AI (tho i love the mathematical part of it too)
+Lost my bookmarks. Never again will I lose them.
 
 ## Youtube Playlists
 
