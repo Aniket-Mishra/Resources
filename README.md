@@ -24,7 +24,7 @@ Lost my bookmarks. Never again will I lose them.
 5. [Corey Scafer Python OOP](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 ### Beginner Books
 1. [Automate The Boring Stuff With Python: Book](https://automatetheboringstuff.com/)
-2. []()
+2. [Whirlwind Guide of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 3. []()
 
 ## Really Cool websites! 
@@ -40,7 +40,7 @@ Lost my bookmarks. Never again will I lose them.
 
 ## Books
 
-1.  Bishop - Pattern Recognition and Machine Learning
+1. Bishop - Pattern Recognition and Machine Learning
 2. Sutton, Barto - Reinforcement Learning: An Introduction
 3. Berkeley - CS285: Deep Reinforcement Learning
 
